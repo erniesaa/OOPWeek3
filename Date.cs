@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPWeek3
-{
-    internal class Date
+
+
+    public class Date
     {
+    public int year;
+    public int day;
+    public int month;
+
     }
-}
+
